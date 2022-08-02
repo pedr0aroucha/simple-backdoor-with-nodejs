@@ -7,7 +7,7 @@ node server.js 5000
 node client.js 127.0.0.1 5000
 ```
 
-### Using NetCat
+### Using Netcat
 
 https://linuxcommandlibrary.com/man/netcat
 
